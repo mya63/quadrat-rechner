@@ -1,0 +1,32 @@
+👉 [Jetzt ausprobieren](https://mya63.github.io/quadrat-rechner/)
+
+# 🟩 Quadrat-Rechner
+
+Ein einfacher Web-Rechner zur Berechnung von:
+- ✅ **Umfang**
+- ✅ **Diagonale**
+- ✅ **Flächeninhalt**
+
+Basierend auf HTML, CSS und JavaScript.
+
+---
+
+🔗 **Live-Demo:**  
+👉 [Jetzt ausprobieren](https://mya63.github.io/quadrat-rechner/)
+
+---
+
+## 💻 Funktionen
+- Eingabe von Höhe und Breite
+- Live-Berechnung beim Klick auf „Berechnen“
+- Dynamisches, grünes Quadrat als visuelle Darstellung
+
+## 📂 Projektstruktur
+- `index.html` – HTML Grundgerüst
+- `style.css` – Einfaches Layout & Styles
+- `script.js` – Mathematische Logik & DOM-Manipulation
+
+---
+
+## 🚀 Ziel
+Übung für DOM-Handling, mathematische Logik und GitHub Pages Deployment.
